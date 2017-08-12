@@ -1,2 +1,3 @@
 # Tiny-C-Shell
-A tiny shell that provides job-control, coded in C language as part of a College project.
+A tiny shell coded in C language as part of a college project.
+The shell allows job control and handles signals.
